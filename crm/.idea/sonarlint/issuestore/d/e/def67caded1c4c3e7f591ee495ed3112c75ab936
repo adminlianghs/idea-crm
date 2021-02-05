@@ -1,0 +1,14 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÇÀ—„
+Q	java:S125"<This block of commented-out lines of code should be removed.(èÊªí
+H
+java:S49256"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(Á“æ¦ûÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(£Ï¬”øÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(¯Ç¤±
+V	java:S125G"<This block of commented-out lines of code should be removed.(µ‡¼þÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(£Ì¦Œûÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(µ‡¼þÿÿÿÿ
+D
+java:S1068".Remove this unused "dataSource" private field.(¥¯Ùß

@@ -1,0 +1,19 @@
+
+D
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+P
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+‚
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(ï‡‹ê
+Q	java:S125"<This block of commented-out lines of code should be removed.(ŽØè»
+V	java:S125"<This block of commented-out lines of code should be removed.(…€¦Øþÿÿÿÿ
+t
+java:S1989 "YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ãò¶Îúÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(ŽØè»
+Q	java:S125$"<This block of commented-out lines of code should be removed.(ŽØè»
+k
+java:S1989("PHandle the following exception that could be thrown by "getWriter": IOException.(ñäœ¯þÿÿÿÿ
+U
+java:S1161+":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+{
+java:S1989,"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ

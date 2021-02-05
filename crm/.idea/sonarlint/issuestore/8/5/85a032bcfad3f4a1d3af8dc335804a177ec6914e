@@ -1,0 +1,13 @@
+
+
+java:S1488J"]Immediately return this expression instead of assigning it to the temporary variable "count".(ŸÂêúÿÿÿÿ8ğçŸºö.
+
+java:S1488B"]Immediately return this expression instead of assigning it to the temporary variable "count".(ŸÂêúÿÿÿÿ8Ø¯ï¸ö.
+U
+java:S4973h"9Use the "equals" method if value comparison was intended.(áˆáT8¥Ş¨±ö.
+
+java:S1488R"]Immediately return this expression instead of assigning it to the temporary variable "count".(ŸÂêúÿÿÿÿ8ºé‚¾ö.
+V
+java:S4973k"9Use the "equals" method if value comparison was intended.(¹»›÷8â°¯±ö.
+
+java:S1149^"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8Ù”“±ö.

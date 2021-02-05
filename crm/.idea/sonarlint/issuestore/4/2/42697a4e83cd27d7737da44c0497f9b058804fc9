@@ -1,0 +1,20 @@
+
+[
+java:S4973u"9Use the "equals" method if value comparison was intended.(» ªµúÿÿÿÿ8ëıî†ö.
+[
+java:S4973x"9Use the "equals" method if value comparison was intended.(…ƒ£•şÿÿÿÿ8ëıî†ö.
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "update".(ıĞ’àúÿÿÿÿ8ëıî†ö.
+
+java:S1488W"]Immediately return this expression instead of assigning it to the temporary variable "count".(ŸÂêúÿÿÿÿ8ëıî†ö.
+
+java:S1488_"]Immediately return this expression instead of assigning it to the temporary variable "count".(ŸÂêúÿÿÿÿ8ëıî†ö.
+R
+java:S1128"0Remove this unused import 'cn.hutool.db.DbUtil'.(ƒ‹‘Âøÿÿÿÿ8ëıî†ö.
+_
+java:S1128"=Remove this unused import 'cn.hp.crm.model.CustomerCategory'.(‹–­ßùÿÿÿÿ8ëıî†ö.
+Y
+java:S1128"<Remove this unused import 'cn.hp.crm.service.SourceService'.(íØã¦8ëıî†ö.
+|
+java:S1149l"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÛ§È8ëıî†ö.
+X	java:S125F"<This block of commented-out lines of code should be removed.(€®”¬8ëıî†ö.

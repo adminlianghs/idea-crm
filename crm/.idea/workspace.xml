@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="crm_01:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43c2c0eb-7792-403b-88d9-33235c445b9d" name="Default Changelist" comment="添加crm项目到git">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/crm_01_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06d19d3ee58a273f6af1ea99af3d1c74cff3826b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1635d941e41b128554f52101e1cbad19adf049ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/18dda0203078a1e9a251566644f0efe84b1ebd11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d74f131042f6a89a794977901041e8d19ad9686" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29e25367ef0e2a65d440399ebe7706284c032d51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2da20c9f0f0119c5bef3413af887e41c061636ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37f9c9b0bad46d881dfcb61449146e08cc31a500" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ed0d347de214fcbf29ab7576db2f7c8fd538938" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42697a4e83cd27d7737da44c0497f9b058804fc9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a2bc24ff1ec5d71d9906df1fc73f79e94022ccc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/5992866c4c4c303c0a8dc87b37a5e672a320ce66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a3a93e236036b7dd9c479f1be3061cdcf4d95f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65b8f9c45eb09e3127f013e0b35aa37dcdb3e81b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6694caf6afd275400986763a29a90358bff139ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71ca2d0a44d548c982a189b4a16ff7e8d9de345e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fbf82f3652a28e0058502fe866bc58f6f6d5f25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/8548465f616e7494315f77d4892beb01842d8b93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85a032bcfad3f4a1d3af8dc335804a177ec6914e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c36e78b521d5cd8688eec4feb8ae6c2d9c7ae64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90006653a1e8b23e6cc64e1a5f3738ca21257c42" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/915f6b0e362f5bb2196005391d3d90d31860a56f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9ba80c0d904a42ba1ee0cc2311a3f306ef8f3304" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a19d2886b80ffbd537d945c254fb346864eaadd8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1ab4803d4d110f30cc0c8e59be81eef1e7a9c7e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7280e473c8858ac813bd98b2681fc94ec548bfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a85641fc74db1a67f5232e4910cfb876e0ea32e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac6d559594c1e3738edb37959fbd1291afa88bd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af17420ea9221765e941ba345f32dc4a13e33472" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4711b1e66950b6dff7fea24f1b478d0623bb203" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b73b0a4f2b796da11b869c9035b55ab76b20447b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7d84f0185b106b1163d95ea86aca32733cd3287" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b85cbb9da335970f3b7118a4551fea366fffd6aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf43d45b27f0866defad01fcfce94b519df0203b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3eba5db1e5b2bf469ad16d54acae6c2cab2ac89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c58856dc255f0dea3561172aa8ec082743fdeb6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce0a34664aef0867fb4b6484b98b3aff6d80b8a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0c4a851ac18454509078b9e4d8c0f422857c2de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da55bb2c9f164e810fb898cfef89cb8d8d4b5396" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da9f55af4fe26b9614eec8a6c6b54404c766369b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db3eafde1d50d49f8e6057b2b3713d36b0de132d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/def67caded1c4c3e7f591ee495ed3112c75ab936" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e43412505e4fa7260054c68d6f48017fcecdbc29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e61848039f8b535ccf6b543efac3dfdaeff6c116" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e85d0fdcf010cc4db439b8fcd02c49e0f352f787" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eef1ecae5bc017ebcbacf37d7fef086ba22c080f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1b40bd808b6fa3dd678e89abd0f59cb666a997b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9bc53f105c495ca2985800a7150f4796f62257e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb246d86ec03e4bb6269641a23106d64b9e6388c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/feaa42a840a857c49d1c8bd86cf16b2af6d82160" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/META-INF/crm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/CustomerCategoryDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/CustomerDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/CustomerStateDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/SourceDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/impl/CustomerCategoryDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/impl/CustomerDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/impl/CustomerStateDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/impl/SourceDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/filter/CharsetFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/filter/UserFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/model/CustomerCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/model/CustomerState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/model/Source.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/CustomerCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/CustomerStateService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/SourceService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/impl/CustomerCategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/impl/CustomerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/impl/CustomerStateServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/impl/SourceServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/AddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/CategoryAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/CategoryDelServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/CategoryEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/CategoryServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/CategoryViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/DeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/EditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/ListPageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/ListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/ListViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/SourceAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/SourceDeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/SourceEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/SourceServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/SourceViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/StateAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/StateDeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/StateEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/StateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/customer/StateViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/user/ChangePasswordServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/user/ChangePasswordViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/user/GetCodeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/user/LoginOutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/user/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/user/MainServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/user/UserImgServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/servlet/user/UserImgViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/test/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/util/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/util/PageHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/util/ResultData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/cn/hp/crm/util/SessionKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/lib/druid-1.1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/lib/hutool-all-5.5.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.11-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/view/customer/category.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/view/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/view/customer/source.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/view/customer/state.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/view/user/changePassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/view/user/headPortrait.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/view/user/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/view/user/test3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/css/supersized.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/backgrounds/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/backgrounds/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/backgrounds/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/backgrounds/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/backgrounds/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/captcha.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/userImg/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/userImg/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/images/userImg/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/js/html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/js/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/js/supersized-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/js/supersized.3.2.7.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/js/tooltips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/crm_war_exploded/test2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/META-INF/crm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/CustomerCategoryDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/CustomerDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/CustomerStateDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/SourceDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/impl/CustomerCategoryDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/impl/CustomerDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/impl/CustomerStateDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/impl/SourceDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/filter/CharsetFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/filter/UserFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/model/CustomerCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/model/CustomerState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/model/Source.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/CustomerCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/CustomerStateService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/SourceService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/impl/CustomerCategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/impl/CustomerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/impl/CustomerStateServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/impl/SourceServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/AddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/CategoryAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/CategoryDelServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/CategoryEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/CategoryServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/CategoryViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/DeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/EditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/ListPageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/ListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/ListViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/SourceAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/SourceDeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/SourceEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/SourceServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/SourceViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/StateAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/StateDeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/StateEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/StateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/customer/StateViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/user/ChangePasswordServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/user/ChangePasswordViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/user/GetCodeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/user/LoginOutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/user/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/user/MainServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/user/UserImgServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/servlet/user/UserImgViewServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/test/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/util/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/util/PageHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/util/ResultData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/cn/hp/crm/util/SessionKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/crm/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/CustomerCategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/CustomerStateDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/SourceDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/impl/CustomerCategoryDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/impl/CustomerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/impl/CustomerStateDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/impl/SourceDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/filter/CharsetFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/filter/UserFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/model/CustomerCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/model/CustomerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/model/Source.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/CustomerCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/CustomerStateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/SourceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/impl/CustomerCategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/impl/CustomerStateServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/impl/SourceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/CategoryAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/CategoryDelServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/CategoryEditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/CategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/CategoryViewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/DeleteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/EditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/ListPageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/ListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/ListViewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/SourceAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/SourceDeleteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/SourceEditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/SourceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/SourceViewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/StateAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/StateDeleteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/StateEditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/StateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/customer/StateViewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/user/ChangePasswordServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/user/ChangePasswordViewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/user/GetCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/user/LoginOutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/user/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/user/MainServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/user/UserImgServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/servlet/user/UserImgViewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/test/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/util/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/util/PageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/util/ResultData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hp/crm/util/SessionKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/druid-1.1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hutool-all-5.5.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.11-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer/category.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer/source.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer/state.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/user/changePassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/user/headPortrait.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/user/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/user/test3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/supersized.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/backgrounds/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/backgrounds/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/backgrounds/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/backgrounds/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/backgrounds/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/captcha.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/userImg/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/userImg/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/userImg/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/supersized-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/supersized.3.2.7.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/tooltips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test2.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/工作/apache/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\工作\apache\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n3JmUJ13qZvwy2ILUv7Px7K9cw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.17137477" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.hp.crm.service" />
+      <recent name="cn.hp.crm.dao.impl" />
+      <recent name="cn.hp.crm.dao" />
+      <recent name="cn.hp.crm.service.impl" />
+      <recent name="cn.hp.crm.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\workspace\crm\src\cn\hp\crm\dao\impl" />
+      <recent name="G:\workspace\crm\src\cn\hp\crm\dao" />
+      <recent name="G:\workspace\crm\src\cn\hp\crm\model" />
+      <recent name="G:\workspace\crm\src\cn\hp\crm\service\impl" />
+      <recent name="G:\workspace\crm\src\cn\hp\crm\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.hp.crm.servlet.customer" />
+      <recent name="cn.hp.crm.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workspace\crm\web\WEB-INF\view\customer" />
+      <recent name="G:\workspace\crm\out\artifacts\crm_war_exploded\images" />
+      <recent name="G:\workspace\crm\web\userImg" />
+      <recent name="D:\project\crm_01\web\WEB-INF\view\user" />
+      <recent name="D:\project\crm_01\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.60">
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hp.crm.test.Test01" />
+      <module name="crm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hp.crm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.60" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.60" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="crm_01:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_crm_01" />
+        <option name="HTTP_PORT" value="8089" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65403" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="crm_01:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test01" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.60" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43c2c0eb-7792-403b-88d9-33235c445b9d" name="Default Changelist" comment="" />
+      <created>1610612999430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610612999430</updated>
+      <workItem from="1610613002910" duration="1816000" />
+      <workItem from="1610798659110" duration="648000" />
+      <workItem from="1611106335637" duration="9000" />
+      <workItem from="1611106365851" duration="6664000" />
+      <workItem from="1611141759276" duration="6606000" />
+      <workItem from="1611191986654" duration="10076000" />
+      <workItem from="1611285960826" duration="517000" />
+      <workItem from="1611294436313" duration="11641000" />
+      <workItem from="1611365909915" duration="18546000" />
+      <workItem from="1611521761713" duration="24418000" />
+      <workItem from="1611620259213" duration="17405000" />
+      <workItem from="1611969088904" duration="7989000" />
+      <workItem from="1611977179589" duration="28358000" />
+      <workItem from="1612151713065" duration="7096000" />
+      <workItem from="1612172567367" duration="12265000" />
+      <workItem from="1612237736291" duration="31043000" />
+      <workItem from="1612355651455" duration="507000" />
+      <workItem from="1612510533911" duration="1485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加crm项目到git" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加crm项目到git" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Inspections" timestamp="1611632628760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1611632628760" />
+    <state x="720" y="182" key="#Tomcat_Server" timestamp="1611387402683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="182" key="#Tomcat_Server/0.0.1920.1040@0.0.1920.1040" timestamp="1611387402683" />
+    <state x="331" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611969110991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1611969110991" />
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611639730024" />
+    <state x="935" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1612353406734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="935" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612353406734" />
+    <state x="765" y="213" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611644699095" />
+    <state x="552" y="181" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1611387433926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1611387433926" />
+    <state x="749" y="435" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1611367272378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="435" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611367272378" />
+    <state x="595" y="324" width="448" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612001727521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="595" y="324" width="448" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1612001727521" />
+    <state x="744" y="409" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1611629099885" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611294599815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611294599815" />
+    <state x="552" y="219" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1611969152919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="219" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611969152919" />
+    <state x="690" y="277" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611387427653" />
+    <state x="421" y="0" key="CommitChangelistDialog2" timestamp="1612511725172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612511725172" />
+    <state x="868" y="182" key="FileChooserDialogImpl" timestamp="1612511544263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="868" y="182" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612511544263" />
+    <state x="740" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611387400580" />
+    <state width="1493" height="161" key="GridCell.Tab.0.bottom" timestamp="1612356163761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612356163761" />
+    <state width="1617" height="385" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.0.center" timestamp="1612356163761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612356163761" />
+    <state width="1617" height="385" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.0.left" timestamp="1612356163761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612356163761" />
+    <state width="1617" height="385" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.0.right" timestamp="1612356163761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612356163761" />
+    <state width="1617" height="385" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.1.bottom" timestamp="1612356163762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612356163762" />
+    <state width="1617" height="385" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.1.center" timestamp="1612356163762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612356163762" />
+    <state width="1617" height="385" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.1.left" timestamp="1612356163762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612356163762" />
+    <state width="1617" height="385" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.1.right" timestamp="1612356163762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612356163762" />
+    <state width="1617" height="385" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1593" height="570" key="GridCell.Tab.12.bottom" timestamp="1611522266007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="570" key="GridCell.Tab.12.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611522266007" />
+    <state width="1593" height="570" key="GridCell.Tab.12.center" timestamp="1611522266007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="570" key="GridCell.Tab.12.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611522266007" />
+    <state width="1593" height="570" key="GridCell.Tab.12.left" timestamp="1611522266007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="570" key="GridCell.Tab.12.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611522266007" />
+    <state width="1593" height="570" key="GridCell.Tab.12.right" timestamp="1611522266007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="570" key="GridCell.Tab.12.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611522266007" />
+    <state width="1493" height="161" key="GridCell.Tab.2.bottom" timestamp="1612356163762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612356163762" />
+    <state width="1617" height="385" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.2.center" timestamp="1612356163762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1612356163762" />
+    <state width="1617" height="385" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.2.left" timestamp="1612356163761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1612356163761" />
+    <state width="1617" height="385" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state width="1493" height="161" key="GridCell.Tab.2.right" timestamp="1612356163762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1612356163762" />
+    <state width="1617" height="385" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611645231991" />
+    <state x="568" y="174" width="930" height="707" key="SettingsEditor" timestamp="1612511469688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="174" width="930" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612511469688" />
+    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611387428660" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1611522115280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611522115280" />
+    <state x="649" y="292" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1612511903501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="649" y="292" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1612511903501" />
+    <state x="-59" y="0" width="892" height="830" key="dock-window-1" timestamp="1612316826204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-59" y="0" width="892" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1612316826204" />
+    <state x="-37" y="10" width="1021" height="803" key="dock-window-2" timestamp="1612346555118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-37" y="10" width="1021" height="803" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1612346555118" />
+    <state x="-1" y="0" width="890" height="830" maximized="true" key="dock-window-3" timestamp="1612338966817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1" y="0" width="890" height="830" maximized="true" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1612338966817" />
+    <state x="1006" y="168" width="759" height="549" key="find.popup" timestamp="1611565532231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1006" y="168" width="759" height="549" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611565532231" />
+    <state x="334" y="136" key="new project wizard" timestamp="1611371450688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611371450688" />
+    <state x="562" y="120" key="refactoring.ChangeSignatureDialog" timestamp="1611997922684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="120" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1611997922684" />
+    <state x="702" y="152" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611546954607" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1611634211940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611634211940" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup" timestamp="1612344744601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1612344744601" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611645253148" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cn/hp/crm/test/Test01.java</url>
+          <line>9</line>
+          <properties class="cn.hp.crm.test.Test01" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cn/hp/crm/service/CustomerService.java</url>
+          <line>11</line>
+          <properties class="cn.hp.crm.service.CustomerService" method="listByPage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

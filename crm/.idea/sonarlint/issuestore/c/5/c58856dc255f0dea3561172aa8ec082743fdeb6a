@@ -1,0 +1,13 @@
+
+P
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+r
+java:S1989#"PHandle the following exception that could be thrown by "getWriter": IOException.(ñäœ¯þÿÿÿÿ8—¢˜ºö.
+‚
+java:S1989'"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ8þÿ­¸ö.
+U
+java:S1161&":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+V
+java:S1128"4Remove this unused import 'cn.hp.crm.util.Constant'.(îžß³øÿÿÿÿ8Å¶¼¸ö.
+‰
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(ï‡‹ê8ðÏ¯¸ö.

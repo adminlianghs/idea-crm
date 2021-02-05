@@ -1,0 +1,19 @@
+
+V
+java:S4973!"9Use the "equals" method if value comparison was intended.(¡†–ÿ8Ë¤ƒ°ö.
+v
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(­¯Ã£8’äÿ¯ö.
+‚
+java:S1989/"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ8èËÐ¯ö.
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(Í·ä©üÿÿÿÿ8…áü¯ö.
+U
+java:S1161.":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+r
+java:S1989*"PHandle the following exception that could be thrown by "getWriter": IOException.(´÷ÏÛýÿÿÿÿ8½é‘°ö.
+V
+java:S4973$"9Use the "equals" method if value comparison was intended.(Þ£ôÃ8ŒÑˆ°ö.
+P
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+‰
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(ï‡‹ê8ÃÄÑ¯ö.

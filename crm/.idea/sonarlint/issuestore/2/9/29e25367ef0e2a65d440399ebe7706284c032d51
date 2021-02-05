@@ -1,0 +1,15 @@
+
+[
+java:S49732"9Use the "equals" method if value comparison was intended.(õÎ°ùÿÿÿÿ8°‹õ°ö.
+€
+java:S1488{"^Immediately return this expression instead of assigning it to the temporary variable "update".(ıĞ’àúÿÿÿÿ8°‹õ°ö.
+V
+java:S4973/"9Use the "equals" method if value comparison was intended.(ñãƒ8°‹õ°ö.
+V	java:S125%"<This block of commented-out lines of code should be removed.(º¯İªùÿÿÿÿ
+€
+java:S1488s"^Immediately return this expression instead of assigning it to the temporary variable "update".(ıĞ’àúÿÿÿÿ8°‹õ°ö.
+Q	java:S125("<This block of commented-out lines of code should be removed.(ŸÀˆ
+
+java:S1488„"^Immediately return this expression instead of assigning it to the temporary variable "update".(ıĞ’àúÿÿÿÿ8°‹õ°ö.
+z
+java:S1149!"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤‰¥İşÿÿÿÿ

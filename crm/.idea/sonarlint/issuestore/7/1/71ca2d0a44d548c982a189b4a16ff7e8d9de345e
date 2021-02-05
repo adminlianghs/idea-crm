@@ -1,0 +1,19 @@
+
+[
+java:S4973'"9Use the "equals" method if value comparison was intended.(­âö…úÿÿÿÿ8ö¶ìÝõ.
+[
+java:S4973-"9Use the "equals" method if value comparison was intended.(û¿ßåùÿÿÿÿ8ö¶ìÝõ.
+_
+java:S1128"=Remove this unused import 'cn.hp.crm.model.CustomerCategory'.(‹–­ßùÿÿÿÿ8ö¶ìÝõ.
+‚
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(ï‡‹ê
+r
+java:S19897"PHandle the following exception that could be thrown by "getWriter": IOException.(´÷ÏÛýÿÿÿÿ8ö¶ìÝõ.
+X	java:S1256"<This block of commented-out lines of code should be removed.( ’Òô8ö¶ìÝõ.
+{
+java:S1989("YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Þí¥Çüÿÿÿÿ8ö¶ìÝõ.
+[
+java:S4973""9Use the "equals" method if value comparison was intended.(®”ñöøÿÿÿÿ8ö¶ìÝõ.
+X	java:S1253"<This block of commented-out lines of code should be removed.(¿›‹ï8ö¶ìÝõ.
+{
+java:S1989<"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ
